@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Priority Habitats Peatland_</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>About this layerThe Northern Ireland Peatland map layer displays  information from the NI Peatalnd Survey (1988) which mapped peatland vegetation at 1:20,000 scale for the whole of Northern Ireland derived from  the interpretation of 1970s and 1980s aerial photographs.Data Sources:Published in 1988 using the most recent aerial photograph imagery available at the time (from 1970s and 1980s)Authors - Cruickshank, M.M. &amp;amp; Tomlinson, R.W. (1988). Northern Ireland Peatland Survey. Department of the Environment for Northern Ireland (Countryside and Wildlife Branch). Belfast.What can you do with the layer?Visualisation: This layer can be used for visualisation online in web maps.Analysis: This layer can be used in dashboards.Download: The data is downloadable.</abstract>
+            <purpose>This service depicts the location and details of the Northern Ireland Environment Agency (NIEA) priority habitat Peatland database.</purpose>
+        </descript>
+        <status>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-8.161266</westbc>
+                <eastbc>-5.435122</eastbc>
+                <northbc>55.322897</northbc>
+                <southbc>54.020755</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Peatland</themekey>
+                <themekey>NI Peatland Survey</themekey>
+                <themekey>Priority Habitats</themekey>
+                <themekey>Natural Environment Division</themekey>
+                <themekey>Northern Ireland Environment Agency</themekey>
+                <themekey>Northern Ireland</themekey>
+                <themekey>United Kingdom</themekey>
+                <themekey>NI</themekey>
+                <themekey>UK</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This data represents NIEA surveys and may not represent the entire extent of habitat or species across Northern Ireland.All blanket bog and lowland raised bog, lowland fen (only on peat) and wet woodland (only on peat). Covers the whole of Northern Ireland. </useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>DAERA</cntorg>
+                    <cntper>NED GIS Evidence Team</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>unknown</addrtype>
+                    <address>Klondyke Building, Cromac Avenue</address>
+                    <city>Belfast</city>
+                    <state>Co. Antrim</state>
+                    <postal>BT7 2JA</postal>
+                    <country>GB</country>
+                </cntaddr>
+                <cntemail>NIEA.GIS@daera-ni.gov.uk</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>DAERA NIEA dataset
+Land &amp; Property Services © Crown Copyright Licence No. NIMA S&amp;LA577.2</datacred>
+        <native>Esri ArcGIS 12.9.4.32739</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>0</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>NED_PlanningConsultation_Work_NEDGIS_PriorityHabitats_Peatland_</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Hab_Type</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Area_Hectares</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Area_Sq_Km</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape.STArea()</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape.STLength()</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Shapefile</formname>
+                    <transize>8.840</transize>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt/>
+                </digtopt>
+            </digform>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20230831</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
