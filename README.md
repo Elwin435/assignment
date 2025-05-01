@@ -24,6 +24,8 @@ To set up a new environment in Anaconda Navigator, use the environment.yml file 
 To complete the setup, after choosing the correct environment, make sure Jupyter lab has been configured, and the default launch directory has been changed to  your desired repository location and configure Jupiter lab terminal to command prompt.
 
 ### 5. Data Sources
+Below are the data for the code to complete the interactive map.
+
 OpenDataNI provided the spatial datasets needed within this project.
 
 1. Peatland data - [Click here](https://admin.opendatani.gov.uk/dataset/priority-habitats-peatland/resource/79198aff-6624-4446-9bb6-e2c462c8c40f)
